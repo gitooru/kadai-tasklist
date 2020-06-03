@@ -13,5 +13,9 @@
             <div id="content">
                 ${param.content}
              </div>
+            <div id="footer">
+                by Tooru Itonaga.
+            </div>
+          </div>
     </body>
 </html>
